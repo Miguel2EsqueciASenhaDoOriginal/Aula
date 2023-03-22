@@ -1,1 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+  }
+  
+  .cabecalho{
+    display: flex;   
+    background-color:  #fa0000;
+    color: rgb(247, 245, 245);
+    justify-content: space-around;
+    align-items: left;
+  } 
 
